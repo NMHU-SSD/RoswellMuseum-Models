@@ -2,3 +2,4 @@
 Summer Internship
 
 Museum Building Modeler: Rob Garner
+Museum Artifacts: Scott Bing
