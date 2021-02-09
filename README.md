@@ -1,7 +1,6 @@
 # Roswell Museum 3D Models
 Summer Internship
 
-### Modelers
-Museum Building: Rob Garner
-
-Museum Artifacts: Scott Bing
+### Student Interns
+Rob Garner modeled the Museum Building
+Scott Bing modeled several Museum Artifacts
