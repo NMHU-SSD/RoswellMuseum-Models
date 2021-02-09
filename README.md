@@ -1,7 +1,7 @@
-# RoswellMuseum-Models
+# Roswell Museum 3D Models
 Summer Internship
 
-## Modelers
+### Modelers
 Museum Building: Rob Garner
 
 Museum Artifacts: Scott Bing
